@@ -1,0 +1,27 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one. 
+
+I added a second finish zone in an adjacent corner to the first finish zone.
+
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+For new hazards I added in a trap pad between the beginning sequence of jagged hills, and lava pits near each of the finish points.
+
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+I included verticality in my game by designing the hills and mountains as jagged in some areas and steep in others. Another element I added was rocks poking out of the water to lead to one of the finish point areas. 
+
+
+
+D. Modify the sky and textures to create a world based on your theme.
+
+I made the sky glow pink and the sun larger to change the aesthetic of the atmosphere and the mountains rocky and jagged in order to heighten the climbing experience for the player.
