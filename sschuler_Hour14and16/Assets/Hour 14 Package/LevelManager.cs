@@ -3,11 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
-	public string sceneToLoad = "Game";
+	public string sceneToLoad = "sschuler_Hour16";
 
 
-	public void LoadGame ()
+	public void LoadGame()
 	{
-		SceneManager.LoadScene(sceneToLoad);
+		SceneManager.LoadScene("sschuler_Hour16");
 	}
 }
